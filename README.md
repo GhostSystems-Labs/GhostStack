@@ -19,22 +19,22 @@
 
 ## 📂 MISSION OVERVIEW
 GhostStack is a **proprietary tactical firewall lockdown system** engineered for high-threat environments and covert operations.  
-Designed with operator-level OPSEC, GhostStack functions entirely offline — providing **total, trace-free network lockdown**.
+Designed with operator-level OPSEC, GhostStack functions entirely offline — delivering **total, trace-free network lockdown**.
 
 ---
 
 ## ⚙ CAPABILITIES
-| Module             | Function                                                     |
-|--------------------|--------------------------------------------------------------|
-| 🔒 Lockdown        | Executes full shutdown of all non-whitelisted connectivity   |
-| 🛑 Stealth Mode    | Operates under minimized footprint / evades standard detection |
-| ⚡ Offline-Ready   | Requires no third-party dependencies / no cloud calls        |
-| 🧩 Custom Builds   | Tailored for enterprise or government mission parameters     |
+| Module             | Function                                                                 |
+|--------------------|--------------------------------------------------------------------------|
+| 🔒 **Lockdown**    | Executes full shutdown of all non-whitelisted connectivity               |
+| 🛑 **Stealth Mode**| Operates under minimized footprint / evades standard detection            |
+| ⚡ **Offline-Ready**| Requires no third-party dependencies / no cloud calls                    |
+| 🧩 **Custom Builds**| Tailored for enterprise or government mission parameters                 |
 
 ---
 
 ## 🧪 EVALUATION PACKAGE
-Restricted builds may be issued with the following controls:  
+Restricted evaluation builds may deploy with embedded controls:  
 - ⏱ **Time-gated execution**  
 - 🔐 **Feature lockdowns**  
 - 💀 **Self-deletion protocol**  
@@ -43,31 +43,31 @@ Restricted builds may be issued with the following controls:
 
 ## 📜 LICENSING PROTOCOL
 Governed under the **Ghost Systems Proprietary License v1.0**.  
-Unauthorized use, duplication, or tampering may trigger:  
-- Self-deletion  
-- Automated reporting to Ghost Systems  
+Unauthorized duplication, redistribution, or tampering may trigger:  
+- 💀 Autonomous self-deletion  
+- 🛰 Automated incident reporting to **Ghost Systems HQ**  
 
-📖 See full directives in [LICENSE.md](LICENSE.md)
+📖 Full directives available in [LICENSE.md](LICENSE.md)
 
 ---
 
 ## 🛠 FIELD DEPLOYMENT
 Custom GhostStack variants are available upon request:  
-- Advanced stealth protocols  
-- Environment-specific tuning  
-- Integration with Ghost Systems toolchain  
+- 🕵️ **Advanced stealth protocols**  
+- 🌐 **Environment-specific tuning**  
+- ⚙ **Integration with Ghost Systems toolchain**  
 
 📧 Deployment Contact: **ghostiac@proton.me**  
-🔒 Requires verified operator clearance.
+🔒 Operator clearance **required**  
 
 ---
 
 ## 🔗 INTEL CHANNELS
 - [Ghost Systems Labs](https://github.com/GhostSystems-Labs)  
 - [Ghost Systems AI](https://www.linkedin.com/company/ghostsystems-ai)  
-- Contact: **ghostiac@proton.me**
+- 📧 Contact: **ghostiac@proton.me**
 
 ---
 
-<p align="center">⚠️ OPERATOR WARNING — Unauthorized access to GhostStack material constitutes a hostile act.</p>
+<p align="center">⚠️ OPERATOR WARNING — Unauthorized access to GhostStack material constitutes a hostile act.</p>  
 <p align="center">© 2025 Ghost Systems — UNITED OPSEC</p>
