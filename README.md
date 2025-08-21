@@ -1,67 +1,73 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/badge.png" width="200" alt="Ghost Stack Logo">
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/badge.png" width="220" alt="Ghost Stack Logo">
 </p>
 
-<h1 align="center">GhostStack</h1>
-<p align="center"><b>Tactical Firewall Lockdown Tool — Operator-grade, offline, and stealth-ready.</b></p>
+<h1 align="center">[ GHOSTSTACK DOSSIER ]</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License Badge">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status Badge">
-  <img src="https://img.shields.io/badge/Grade-Operator%20Level-blue?style=for-the-badge" alt="Operator Badge">
-  <img src="https://img.shields.io/badge/Mode-Stealth-black?style=for-the-badge" alt="Stealth Badge">
+  <img src="https://img.shields.io/badge/CLASSIFICATION-PROPRIETARY-critical?style=for-the-badge&labelColor=2e2e2e&color=8b0000">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=2e2e2e">
+  <img src="https://img.shields.io/badge/GRADE-OPERATOR_LEVEL-blue?style=for-the-badge&labelColor=2e2e2e">
+  <img src="https://img.shields.io/badge/MODE-STEALTH-black?style=for-the-badge&labelColor=2e2e2e">
 </p>
 
 ---
 
-## Overview
-GhostStack is a **proprietary tactical firewall lockdown system** built for stealth operations, secure environments, and operator-level defense.  
-It runs entirely offline, providing total network lockdown with no trace.
+<p align="center"><b>Tactical Firewall Lockdown System — Operator-Grade / Offline / Stealth-Ready</b></p>
 
 ---
 
-## Features
-| Feature             | Description                                         |
-|---------------------|-----------------------------------------------------|
-| 🔒 Lockdown         | Disables all non-whitelisted network connectivity   |
-| 🛑 Stealth Mode     | Minimizes detection and footprint                   |
-| ⚡ Offline-Ready    | No external dependencies required                   |
-| 🧩 Custom Builds    | Tailored for enterprise or government requirements (via email only) |
+## 📂 MISSION OVERVIEW
+GhostStack is a **proprietary tactical firewall lockdown system** engineered for high-threat environments and covert operations.  
+Designed with operator-level OPSEC, GhostStack functions entirely offline — providing **total, trace-free network lockdown**.
 
 ---
 
-## Demo / Trial
-A limited evaluation build may be available with built-in restrictions, including:  
-- Time limits  
-- Feature lockdown  
-- Self-deletion
+## ⚙ CAPABILITIES
+| Module             | Function                                                     |
+|--------------------|--------------------------------------------------------------|
+| 🔒 Lockdown        | Executes full shutdown of all non-whitelisted connectivity   |
+| 🛑 Stealth Mode    | Operates under minimized footprint / evades standard detection |
+| ⚡ Offline-Ready   | Requires no third-party dependencies / no cloud calls        |
+| 🧩 Custom Builds   | Tailored for enterprise or government mission parameters     |
 
 ---
 
-## License
-This project is governed under the **Ghost Systems Proprietary License v1.0**.  
-Unauthorized distribution, modification, or tampering may trigger program deletion and reporting.  
-
-See the full terms in [LICENSE.md](LICENSE.md).
+## 🧪 EVALUATION PACKAGE
+Restricted builds may be issued with the following controls:  
+- ⏱ **Time-gated execution**  
+- 🔐 **Feature lockdowns**  
+- 💀 **Self-deletion protocol**  
 
 ---
 
-## Custom Orders
-Ghost Systems offers custom versions for tactical deployments and enterprise needs:  
-- Enhanced stealth protocols  
-- Deployment tuning  
+## 📜 LICENSING PROTOCOL
+Governed under the **Ghost Systems Proprietary License v1.0**.  
+Unauthorized use, duplication, or tampering may trigger:  
+- Self-deletion  
+- Automated reporting to Ghost Systems  
+
+📖 See full directives in [LICENSE.md](LICENSE.md)
+
+---
+
+## 🛠 FIELD DEPLOYMENT
+Custom GhostStack variants are available upon request:  
+- Advanced stealth protocols  
+- Environment-specific tuning  
 - Integration with Ghost Systems toolchain  
 
-All custom builds require a written agreement and are delivered **exclusively** via email:  
-📧 **ghostiac@proton.me**
+📧 Deployment Contact: **ghostiac@proton.me**  
+🔒 Requires verified operator clearance.
 
 ---
 
-## Connect
--  Guest Projects Profile: [Ghost Systems Labs](https://github.com/GhostSystems-Labs)  
--  LinkedIn: [Ghost Systems AI](https://www.linkedin.com/company/ghostsystems-ai)  
--  Contact: **ghostiac@proton.me**
+## 🔗 INTEL CHANNELS
+- [Ghost Systems Labs](https://github.com/GhostSystems-Labs)  
+- [Ghost Systems AI](https://www.linkedin.com/company/ghostsystems-ai)  
+- Contact: **ghostiac@proton.me**
 
 ---
 
-© 2025 Ghost Systems. All Rights Reserved.
+<p align="center">⚠️ OPERATOR WARNING — Unauthorized access to GhostStack material constitutes a hostile act.</p>
+<p align="center">© 2025 Ghost Systems — UNITED OPSEC</p>
