@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/badge.png" width="200" alt="Ghost Stack Logo">
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/badge.png" width="220" alt="Ghost Stack Logo">
 </p>
 
-# Ghost Systems Proprietary License v1.0
+# 📜 Ghost Systems Proprietary License v1.0  
 
 **Project:** GhostStack  
 **Owner:** Ghost Systems  
@@ -10,42 +10,45 @@
 
 ---
 
-## Proprietary Rights
-This software and all related materials are the exclusive property of **Ghost Systems**.  
-No redistribution, reverse engineering, or modification is permitted without written authorization.
+## 🔒 Proprietary Rights
+This software and all related materials are the **exclusive property of Ghost Systems**.  
+No redistribution, reverse engineering, or modification is permitted without **prior written authorization**.  
 
 ---
 
-## Demo / Trial
-- A limited demo build may be provided for evaluation.  
-- The demo may include built-in restrictions (e.g., time limits, feature limits, self-deletion).  
+## 🧪 Evaluation / Demo
+Restricted demo builds may be provided under controlled conditions:  
+- ⏱ **Time-limited execution**  
+- 🔐 **Feature lockdowns**  
+- 💀 **Self-deletion triggers**  
+
+Tampering with demo builds may result in immediate self-deletion.  
 
 ---
 
-## Tampering
-- Any attempt to bypass, modify, or interfere with security measures may trigger **automatic program deletion**.  
-- Tampering events may be logged and reported back to **Ghost Systems**.  
+## 🚫 Unauthorized Activity
+Any attempt to bypass, duplicate, or interfere with GhostStack’s protocols constitutes a violation and may trigger:  
+- 💀 **Autonomous self-deletion**  
+- 🛰 **Automated incident reporting to Ghost Systems HQ**  
 
 ---
 
-## No Warranty
-This software is provided **“as is,”** with no guarantees of fitness for a particular purpose.  
-**Ghost Systems** assumes no liability for damages, direct or indirect, resulting from use.  
+## ⚖ Liability
+This software is delivered **“as is”** with no warranty of fitness for any mission, commercial, or operational use.  
+Ghost Systems assumes no responsibility for direct or indirect damages resulting from deployment.  
 
 ---
 
-## Commercial Use
-- Commercial use, resale, or redistribution is strictly prohibited without a formal license agreement.  
-- Unauthorized commercial activity will be pursued to the fullest extent permitted by law.  
+## 🛠 Commercial & Field Deployment
+Use in enterprise, government, or tactical environments requires a **custom licensing agreement**.  
+Custom builds may include:  
+- Enhanced stealth modules  
+- Deployment tuning for specific environments  
+- Integration with Ghost Systems toolchain  
+
+📧 Deployment Contact: **ghostiac@proton.me**  
 
 ---
 
-## Custom Orders
-**Ghost Systems** may provide **custom-tailored versions** of this software for enterprise, government, or operational clients.  
-- Custom builds may include feature unlocks, stealth protocol enhancements, deployment tuning, or integration with other Ghost Systems modules.  
-- All custom builds require direct written agreement and are delivered **exclusively** via email:  
-📧 **ghostiac@proton.me**
-
----
-
-© 2025 Ghost Systems. All Rights Reserved.
+<p align="center">⚠️ OPERATOR WARNING — Unauthorized access to GhostStack constitutes a hostile act.</p>  
+<p align="center">© 2025 Ghost Systems — UNITED OPSEC</p>
