@@ -5,6 +5,13 @@
 <h1 align="center">GhostStack</h1>
 <p align="center"><b>Tactical Firewall Lockdown Tool — Operator-grade, offline, and stealth-ready.</b></p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License Badge">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status Badge">
+  <img src="https://img.shields.io/badge/Grade-Operator%20Level-blue?style=for-the-badge" alt="Operator Badge">
+  <img src="https://img.shields.io/badge/Mode-Stealth-black?style=for-the-badge" alt="Stealth Badge">
+</p>
+
 ---
 
 ## Overview
