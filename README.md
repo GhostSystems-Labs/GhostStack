@@ -72,27 +72,22 @@ Custom GhostStack variants are available upon request:
 ## 📸 OPERATOR SCREENSHOTS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/splash.png" width="600" alt="GhostStack Bootup Splash"><br>
-  <i>Bootup splash — GhostStack badge protocol.</i>
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/main.png" width="420" alt="GhostStack Operator Control"><br>
+  <i>Operator Control — Engage Lockdown / Unseal / Test.</i>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/main.png" width="600" alt="GhostStack Main Control"><br>
-  <i>Main Operator Control — Lockdown / Unseal / Network Test.</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/lockdown.png" width="600" alt="GhostStack Lockdown Engaged"><br>
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/lockdown.png" width="560" alt="GhostStack Lockdown Engaged"><br>
   <i>Hard Lockdown Engaged — firewall sealed, system dark.</i>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/unseal.png" width="600" alt="GhostStack Unseal Success"><br>
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/unseal.png" width="560" alt="GhostStack Unseal Success"><br>
   <i>Unseal Protocol Complete — network restored, services online.</i>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/Ghost%20Stack%20United%20OPSEC%20Emblem.png" width="420" alt="Ghost Stack — United OPSEC Emblem"><br>
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/united-opsec-emblem.png" width="300" alt="Ghost Stack — United OPSEC Emblem"><br>
   <i>Ghost Stack — United OPSEC Emblem.</i>
 </p>
 
