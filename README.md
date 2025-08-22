@@ -19,17 +19,17 @@
 
 ## 📂 MISSION OVERVIEW
 GhostStack is a **proprietary tactical firewall lockdown system** engineered for high-threat environments and covert operations.  
-Designed with operator-level OPSEC, GhostStack functions entirely offline — delivering **total, trace-free network lockdown**.
+Built for operator-level OPSEC, GhostStack functions entirely offline — delivering **total, trace-free network lockdown**.
 
 ---
 
 ## ⚙ CAPABILITIES
-| Module             | Function                                                                 |
-|--------------------|--------------------------------------------------------------------------|
-| 🔒 **Lockdown**    | Executes full shutdown of all non-whitelisted connectivity               |
-| 🛑 **Stealth Mode**| Operates under minimized footprint / evades standard detection            |
-| ⚡ **Offline-Ready**| Requires no third-party dependencies / no cloud calls                    |
-| 🧩 **Custom Builds**| Tailored for enterprise or government mission parameters                 |
+| Module               | Function                                                                 |
+|----------------------|--------------------------------------------------------------------------|
+| 🔒 **Lockdown**      | Executes full shutdown of all non-whitelisted connectivity               |
+| 🛑 **Stealth Mode**  | Operates under minimized footprint / evades standard detection            |
+| ⚡ **Offline-Ready** | Requires no third-party dependencies / no cloud calls                    |
+| 🧩 **Custom Builds** | Tailored for enterprise or government mission parameters                 |
 
 ---
 
@@ -66,6 +66,35 @@ Custom GhostStack variants are available upon request:
 - [Ghost Systems Labs](https://github.com/GhostSystems-Labs)  
 - [Ghost Systems AI](https://www.linkedin.com/company/ghostsystems-ai)  
 - 📧 Contact: **ghostiac@proton.me**
+
+---
+
+## 📸 OPERATOR SCREENSHOTS
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/splash.png" width="600" alt="GhostStack Bootup Splash"><br>
+  <i>Bootup splash — GhostStack badge protocol.</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/main.png" width="600" alt="GhostStack Main Control"><br>
+  <i>Main Operator Control — Lockdown / Unseal / Network Test.</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/lockdown.png" width="600" alt="GhostStack Lockdown Engaged"><br>
+  <i>Hard Lockdown Engaged — firewall sealed, system dark.</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/unseal.png" width="600" alt="GhostStack Unseal Success"><br>
+  <i>Unseal Protocol Complete — network restored, services online.</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/Ghost%20Stack%20United%20OPSEC%20Emblem.png" width="420" alt="Ghost Stack — United OPSEC Emblem"><br>
+  <i>Ghost Stack — United OPSEC Emblem.</i>
+</p>
 
 ---
 
