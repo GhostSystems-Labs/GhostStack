@@ -87,8 +87,8 @@ Custom GhostStack variants are available upon request:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/united-opsec-emblem.png" width="300" alt="Ghost Stack — United OPSEC Emblem"><br>
-  <i>Ghost Stack — United OPSEC Emblem.</i>
+  <img src="https://raw.githubusercontent.com/GhostSystems-Labs/GhostStack/main/screenshots/united-opsec-emblem.png" width="300" alt="Ghost Stack — Custom Build"><br>
+  <i>Ghost Stack — Custom Build.</i>
 </p>
 
 ---
